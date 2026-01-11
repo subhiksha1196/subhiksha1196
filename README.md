@@ -2,18 +2,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhiksha1196" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/u/subhiksha1196/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" height="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
 
 ## About Me
 
 Second-year Computer Science student at **SSN College of Engineering** passionate about building intelligent solutions through code.
-
----
 
 **Open to internship opportunities**
 
@@ -53,10 +51,6 @@ const subhiksha = {
 - **CGPA:** 8.7/10 at SSN College of Engineering
 - **NPTEL Certification:** Data Science for Engineers
 - **Academic Excellence:** 96.3% in 12th Grade, 98.6% in 10th Grade
-
-## Quote I Live By
-
-> "Learning today, building tomorrow."
 
 ## Let's Connect!
 
