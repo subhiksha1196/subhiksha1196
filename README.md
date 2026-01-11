@@ -13,7 +13,7 @@
 
 Second-year Computer Science student at **SSN College of Engineering** passionate about building intelligent solutions through code.
 
-**Open to internship opportunities**
+Open to internship opportunities
 
 ## Tech Stack
 
