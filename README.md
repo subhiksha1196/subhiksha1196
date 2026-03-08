@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://subhiksha-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=vercel"/>
   </a>
   <a href="https://www.linkedin.com/in/subhiksha1196" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/subhiksha1196/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
   </a>
 </p>
 
@@ -18,31 +18,22 @@ Second-year Computer Science student at **SSN College of Engineering** passionat
 
 Open to internship opportunities
 
-## Tech Stack
+<h2 align="center">Languages, Tools & Databases</h2>
 
-### Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css"/>
 </p>
 
-### Frameworks & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20" height="20"/>
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,spring"/>
 </p>
 
-### Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="20" height="20"/>
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48"/>
 </p>
 
 ## Research Interests
