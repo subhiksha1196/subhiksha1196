@@ -55,7 +55,7 @@ const subhiksha = {
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+<!-- <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhiksha1196&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -67,13 +67,11 @@ const subhiksha = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhiksha1196&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
+</p> -->
 
 <div align="center">
 
-# somewhere between `console.log("hello world")` and changing the world.
+somewhere between `console.log("hello world")` and changing the world.
 
 **Thanks for visiting!**
 </div>
