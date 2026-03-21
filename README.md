@@ -70,8 +70,5 @@ const subhiksha = {
 </p> -->
 
 <div align="center">
-
-somewhere between `console.log("hello world")` and changing the world.
-
 **Thanks for visiting!**
 </div>
