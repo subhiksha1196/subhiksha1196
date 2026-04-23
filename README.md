@@ -1,4 +1,5 @@
 # Hi there, I'm Subhiksha!
+
 <p align="center">
   <a href="https://subhiksha-dev.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel"/>
@@ -6,68 +7,61 @@
   <a href="https://www.linkedin.com/in/subhiksha1196" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://leetcode.com/u/subhiksha1196/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/subhiksha1196/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
-  </a>
+  </a> -->
 </p>
 
 ## About Me
-Second-year Computer Science student at **SSN College of Engineering**, building intelligent solutions and always down to build the thing nobody asked for, until they can't live without it. 
+
+Second-year Computer Science student at **SSN College of Engineering**, building full-stack applications and researching AI/ML solutions. Always down to build the thing nobody asked for, until they can't live without it.
+
 Looking for someone to `build()` something great? [Let's talk.](mailto:subhiksha1196@gmail.com)
 
 <h2 align="center">Tech Stack</h2>
 
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css"/>
+</p>
+
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma"/>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,spring"/>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48"/> -->
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,latex,figma"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="48" height="48"/> -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,latex,figma"/>
 </p>
 
 ## Current Focus
+
 ```javascript
 const subhiksha = {
-    learning: ["Machine Learning", "NLP"],
-    building: ["AI Healthcare Solutions", "Web Applications"],
-    exploring: ["Spring Boot", "Deep Learning", "Data Science"],
-    goals: ["Contribute to Open Source", "Publish Research", "Build Impactful AI Solutions"]
+    role: "Full-Stack Developer & AI/ML Researcher",
+    stack: ["React", "Spring Boot", "FastAPI", "MongoDB"],
+    researching: ["NLP", "CodeBERT", "Graph Neural Networks"],
+    building: ["Microservices", "AI Healthcare Wearables"],
+    goals: ["Publish Research", "Contribute to Open Source", "Build Impactful AI Solutions"]
 };
 ```
 
-## Let's Connect!
-- 📧 subhiksha1196@gmail.com
-- 📍 Chennai, Tamil Nadu, India
+## Research
 
----
-
-<!-- <h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhiksha1196&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhiksha1196&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhiksha1196&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p> -->
+- **SemEval-2026 Task 13** — Co-author, detecting AI-generated code using CodeBERT *(under review)*
+- **GNNs for Cybersecurity** — Applying Graph Neural Networks to network intrusion detection *(ongoing)*
 
 <div align="center">
 Thanks for visiting!
