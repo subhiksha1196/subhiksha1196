@@ -1,68 +1,63 @@
-# Hi there, I'm Subhiksha!
+<div align="center">
 
-<p align="center">
-  <a href="https://subhiksha-dev.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel"/>
-  </a>
-  <a href="https://www.linkedin.com/in/subhiksha1196" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <!-- <a href="https://leetcode.com/u/subhiksha1196/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
-  </a> -->
-</p>
+# Subhiksha
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+things+nobody+asked+for...;...until+they+can't+live+without+them." alt="Typing SVG" />
 
-Second-year Computer Science student at **SSN College of Engineering**, building full-stack applications and researching AI/ML solutions. Always down to build the thing nobody asked for, until they can't live without it.
+<br/>
 
-Looking for someone to `build()` something great? [Let's talk.](mailto:subhiksha1196@gmail.com)
+<a href="https://www.linkedin.com/in/subhiksha1196" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
+<a href="https://subhiksha-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:subhiksha1196@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<h2 align="center">Tech Stack</h2>
+</div>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css"/>
-</p>
+<br/>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma"/>
-</p>
+### About me
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/>
-</p>
+CS undergrad, building full-stack apps and exploring AI/ML on the side. Also co-author on a research paper (SemEval-2026, CodeBERT).
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48"/> -->
-</p>
+<br/>
 
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,latex,figma"/>
-</p>
-
-## Current Focus
-
-```javascript
-const subhiksha = {
-    role: "Full-Stack Developer & AI/ML Researcher",
-    stack: ["React", "Spring Boot", "FastAPI", "MongoDB"],
-    researching: ["NLP", "CodeBERT", "Graph Neural Networks"],
-    building: ["Microservices", "AI Healthcare Wearables"],
-    goals: ["Publish Research", "Contribute to Open Source", "Build Impactful AI Solutions"]
-};
-```
-
-## Research
-
-- **SemEval-2026 Task 13** — Co-author, detecting AI-generated code using CodeBERT *(under review)*
-- **GNNs for Cybersecurity** — Applying Graph Neural Networks to network intrusion detection *(ongoing)*
+### This year, in commits
 
 <div align="center">
-Thanks for visiting!
+  <img src="game.gif" alt="GitHub contribution game" width="100%"/>
+  <br/>
+  <sub>my commit history, but it's a space shooter now — powered by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
+</div>
+
+<br/>
+
+### Tech stack
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b><br/><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b><br/><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/><br/>
+</tr>
+<tr>
+<td align="center"><b>Tools</b><br/><img src="https://skillicons.dev/icons?i=git,github,docker,postman,latex,figma"/></td>
+</tr>
+</table>
+
+<br/>
+
+### Research
+
+- **[Team Duo at SemEval-2026 Task 13: Fine-tuning CodeBERT for Out-of-Distribution AI-Generated Code Detection](https://aclanthology.org/2026.semeval-1.265/)** *(published, ACL Anthology)* — co-author, fine-tuning CodeBERT to detect AI-generated code across domains (F1 0.99 in-domain, 0.35 OOD)
+
+<br/>
+
+<div align="center">
+<sub>currently breaking something in production</sub>
 </div>
