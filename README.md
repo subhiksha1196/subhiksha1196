@@ -25,30 +25,37 @@ CS undergrad, building full-stack apps and exploring AI/ML on the side. Also co-
 <div align="center">
   <img src="game.gif" alt="GitHub contribution game" width="100%"/>
   <br/>
-  <sub>my commit history, but it's a space shooter now — powered by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
+  <sub>my commit history, but it's a space shooter now</sub>
 </div>
 
 <br/>
 
 ### Tech stack
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css"/></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b><br/><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma"/></td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b><br/><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/></td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/><br/>
-</tr>
-<tr>
-<td align="center"><b>Tools</b><br/><img src="https://skillicons.dev/icons?i=git,github,docker,postman,latex,figma"/></td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,latex,figma"/>
+
+</div>
 
 <br/>
 
@@ -57,7 +64,6 @@ CS undergrad, building full-stack apps and exploring AI/ML on the side. Also co-
 - **[Team Duo at SemEval-2026 Task 13: Fine-tuning CodeBERT for Out-of-Distribution AI-Generated Code Detection](https://aclanthology.org/2026.semeval-1.265/)** *(published, ACL Anthology)* — co-author, fine-tuning CodeBERT to detect AI-generated code across domains (F1 0.99 in-domain, 0.35 OOD)
 
 <br/>
-
 <div align="center">
-<sub>currently breaking something in production</sub>
+<sub>thanks for stopping by</sub>
 </div>
