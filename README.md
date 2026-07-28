@@ -49,7 +49,6 @@ CS undergrad, building full-stack apps and exploring AI/ML on the side. Also co-
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 **Tools**
 <br/>
